@@ -1,9 +1,0 @@
-project-folder/
-├── dataset/                     # Folder for dataset files
-│   └── your_dataset.csv         # Actual dataset file
-├── code/                        # Folder for additional scripts
-│   └── helper_functions.py      # Optional script with reusable code
-├── exploration.ipynb            # EDA notebook for data exploration
-├── regression.ipynb             # Regression analysis notebook (to be created)
-└── README.md                    # Project overview and instructions
-
